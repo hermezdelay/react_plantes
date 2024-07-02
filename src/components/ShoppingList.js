@@ -3,7 +3,7 @@ import PlantItem from './PlantItem'
 import '../styles/ShoppingList.css'
 
 function handleClick(e) {
-    alert(`Vous voulez acheter 1 ${e} ? Très bon choix 🌱✨`)
+    alert(`Vous voulez acheter  ${e} ? Très bon choix 🌱✨`)
     console.log('✨ Ceci est mon event :', e)
 }
 
